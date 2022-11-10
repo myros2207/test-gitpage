@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-gitpage/static/css/main.073c9b0a.css",
+    "main.js": "/test-gitpage/static/js/main.2edcf545.js",
+    "static/media/logo.svg": "/test-gitpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-gitpage/index.html",
+    "main.073c9b0a.css.map": "/test-gitpage/static/css/main.073c9b0a.css.map",
+    "main.2edcf545.js.map": "/test-gitpage/static/js/main.2edcf545.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2edcf545.js"
+  ]
+}
