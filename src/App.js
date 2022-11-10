@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import HomePage from "./Component/HomePage";
 import TestOtherPage from "./Component/TestOtherPage";
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path={"/"} element={
             <HomePage></HomePage>
@@ -17,7 +17,7 @@ function App() {
           }>
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
 
     </div>
   );
